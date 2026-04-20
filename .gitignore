@@ -1,0 +1,21 @@
+# Large datasets
+studentVle
+studentAssessment
+studentInfo
+studentRegistration
+assessments
+courses
+vle
+
+# CSV files
+*.csv
+
+# Excel files
+*.xlsx
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
